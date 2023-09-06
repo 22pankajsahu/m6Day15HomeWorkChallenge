@@ -20,7 +20,7 @@ The Image Search App is a simple web application that allows users to search for
 
 ## Demo
 
-You can see a live demo of the Digital Clock [here](https://22pankajsahu.github.io/m6Day15HomeWorkChallenge/).
+You can see a live demo of this site [here](https://22pankajsahu.github.io/m6Day15HomeWorkChallenge/).
 
 ## Features
 
